@@ -1,0 +1,8 @@
+{
+  "name": "AI-Powered Threat Detection & Adaptive Cyber Defense System",
+  "description": "An advanced cybersecurity operations and research platform combining machine-learning threat detection, multi-factor risk scoring, explainable AI, and simulated adaptive defense responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
