@@ -563,7 +563,7 @@ Python is required for the ML and FastAPI components.
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+
 cd YOUR-REPOSITORY
 ```
 
