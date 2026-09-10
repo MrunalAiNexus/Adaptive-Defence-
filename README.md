@@ -839,4 +839,4 @@ What response should be considered?
 
 This project was developed for academic and educational purposes.
 
-Before redistributing the project, add an appropriate open-source license such as **MIT**, **Apache-2.0**, or another license compatible with the project's dependencies and intended use.
+
